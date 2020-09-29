@@ -3,3 +3,22 @@
     padding: 25rem 0;
     margin-top: -20vh;
 }
+
+
+.section-tours {
+    padding: 25rem 0 50rem 0;
+    margin-top: -20vh;
+    background: #f7f7f7;
+   
+    .tours {
+        width: 110rem;
+        margin: 0 auto;
+        
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+
+
+        
+    }
+
+}
